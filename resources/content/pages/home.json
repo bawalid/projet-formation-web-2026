@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "eyebrow": "Lux Watches",
+    "title": "Des montres d'exception pour ceux qui collectionnent le style autant que le temps.",
+    "text": "Pieces iconiques, selections editoriales et service conciergerie pour une experience luxe plus nette, plus simple et plus desirable.",
+    "primaryCta": "Decouvrir"
+  },
+  "stats": [
+    { "value": "15+", "label": "maisons horlogeres representees" },
+    { "value": "48h", "label": "delai moyen de reponse du concierge" },
+    { "value": "100%", "label": "livraison assuree sur chaque commande" }
+  ],
+  "featuredSection": {
+    "eyebrow": "Collection recente"
+  },
+  "highlights": [
+    {
+      "title": "Selection de collection",
+      "text": "Chaque reference est choisie pour son savoir-faire, sa provenance et son attrait durable aupres des collectionneurs."
+    },
+    {
+      "title": "Concierge prive",
+      "text": "Du conseil de taille a l'accompagnement cadeau, nos specialistes repondent avec des recommandations sur mesure."
+    },
+    {
+      "title": "Livraison premium assuree",
+      "text": "Chaque expedition est protegee, suivie et presentee dans un ecrin haut de gamme du depart jusqu'a la livraison."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "breadcrumbs": ["Accueil", "Produits"],
+  "labels": {
+    "loading": "Chargement des details du produit...",
+    "notFound": "Cette montre est introuvable.",
+    "category": "Categorie",
+    "movement": "Mouvement",
+    "rating": "Note",
+    "price": "Prix",
+    "addToBasket": "Ajouter au panier",
+    "insuredPurchase": "Achat assure",
+    "premiumDelivery": "Livraison premium",
+    "piecesAvailable": "Pieces disponibles",
+    "collectorNotesEyebrow": "Notes du collectionneur",
+    "collectorNotesTitle": "Un regard detaille sur cette reference.",
+    "caseSize": "Taille du boitier",
+    "strap": "Bracelet",
+    "relatedEyebrow": "Poursuivre la visite",
+    "relatedTitle": "D'autres references issues de la meme selection de luxe.",
+    "relatedText": "Parcourez d'autres pieces offrant un meme equilibre premium entre finition, presence et polyvalence."
+  },
+  "galleryLabels": {
+    "hero": "Vue avant",
+    "detail": "Detail du cadran",
+    "lifestyle": "Vue collection"
+  },
+  "galleryCaptions": {
+    "hero": "Vue principale du cadran et des proportions generales du boitier.",
+    "detail": "Focus sur la texture du cadran et la finition des aiguilles.",
+    "lifestyle": "Angle de presentation pense pour montrer la presence au poignet."
+  }
+}
